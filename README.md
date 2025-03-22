@@ -27,5 +27,4 @@ Clone or download the design files and implement them in your web-based Coffee S
 ## Contribute
 Fork this repository to make improvements or adjustments to the design. Pull requests are welcome!
 
-## License
-This project is licensed under the **MIT License**.
+
