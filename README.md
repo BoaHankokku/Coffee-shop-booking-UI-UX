@@ -19,7 +19,7 @@ Check out the live high-fidelity prototype here:
 
 ## Preview Image
 ![Coffee Shop Booking System Preview](preview.png)
-![Coffee Shop Booking System Whole Preview](preview.png)
+![Coffee Shop Booking System Whole Preview](whole.png)
 
 ## How to Use
 Clone or download the design files and implement them in your web-based Coffee Shop Booking System project.
