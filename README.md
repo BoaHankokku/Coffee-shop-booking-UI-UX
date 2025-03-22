@@ -18,7 +18,8 @@ Check out the live high-fidelity prototype here:
 - **Frontend Technologies (for implementation):** HTML, CSS, JavaScript
 
 ## Preview Image
-![Coffee Shop Booking System Preview](https://github.com/yourusername/your-repository-name/blob/main/assets/preview-image.png)
+![Coffee Shop Booking System Preview](preview.png)
+![Coffee Shop Booking System Whole Preview](preview.png)
 
 ## How to Use
 Clone or download the design files and implement them in your web-based Coffee Shop Booking System project.
