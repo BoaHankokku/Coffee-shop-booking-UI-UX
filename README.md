@@ -5,7 +5,7 @@ This repository contains the **UI/UX design** for the **Coffee Shop Booking Syst
 
 Check out the live high-fidelity prototype here:
 
-[View the Figma Prototype](https://www.figma.com/proto/your-prototype-link](https://www.figma.com/proto/nj2HOGSsK8RnI2iDKtRr52/Coffee-Shop-Booking-UI%2FUX?node-id=1-2&starting-point-node-id=1%3A2&t=XPNysh5YxxPqTjL3-1))
+[View the Figma Prototype](https://www.figma.com/proto/nj2HOGSsK8RnI2iDKtRr52/Coffee-Shop-Booking-UI%2FUX?node-id=1-2&starting-point-node-id=1%3A2)
 
 ## Features
 - Clean and intuitive user interface for managing bookings and seat reservations.
